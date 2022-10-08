@@ -31,10 +31,14 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" style="margin: 15px"
+<p>
+  <img align="left" 
  alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BllHlc&show_icons=true&theme=radical"/>
+</p>
 
 <br />
 <br />
 
-<img align="left" style="margin: 15px" alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BllHlc&layout=compact&theme=radical"/>
+<p>
+  <img align="left" alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BllHlc&layout=compact&theme=radical"/>
+</p>
