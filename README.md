@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal</h1>
+<h1 align="left">Hi 👋, I'm Bilal</h1>
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning **React**
@@ -29,14 +29,15 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
+### Languages and Tools: :zap: GitHub Stats
 
 <p>
   <img align="left" 
  alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BllHlc&show_icons=true&theme=radical"/>
 </p>
 
-<br />
+## <br />
+
 <br />
 
 <p>
