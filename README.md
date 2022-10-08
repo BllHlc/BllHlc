@@ -32,12 +32,12 @@
 ### Languages and Tools: :zap: GitHub Stats
 
 <p>
-  <img align="left" 
+  <img 
  alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BllHlc&show_icons=true&theme=radical"/>
 </p>
 
 ---
 
 <p>
-  <img align="left" alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BllHlc&layout=compact&theme=radical"/>
+  <img alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BllHlc&layout=compact&theme=radical"/>
 </p>
