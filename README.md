@@ -36,9 +36,7 @@
  alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BllHlc&show_icons=true&theme=radical"/>
 </p>
 
-## <br />
-
-<br />
+---
 
 <p>
   <img align="left" alt="bllhlc GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BllHlc&layout=compact&theme=radical"/>
