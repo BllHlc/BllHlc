@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bilal</h1>
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: https://www.linkedin.com/in/bilal-halici/
 
 ### Connect with me:
