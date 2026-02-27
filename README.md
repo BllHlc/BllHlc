@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning **React Native**
-- 📫 How to reach me: https://www.linkedin.com/in/bilal-halici/
+- 📫 How to reach me: https://www.linkedin.com/in/bilalhalici/
 
 ### Connect with me:
 
