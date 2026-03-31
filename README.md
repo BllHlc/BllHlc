@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 
-<!-- ![Stats](https://github-readme-stats-fast.vercel.app/api?username=bilalhalici&show_icons=true&theme=radical) -->Ï
+<!-- ![Stats](https://github-readme-stats-fast.vercel.app/api?username=bilalhalici&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bilalhalici&layout=compact)
 
