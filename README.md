@@ -1,30 +1,52 @@
-<h1 align="left">Hi 👋, I'm Bilal</h1>
+<h1 align="left">Hi 👋, I'm Bilal Halıcı</h1>
+<h3 align="left">Frontend-Led Fullstack JavaScript Engineer</h3>
 
-- 🔭 I’m currently working on Web Development and **React Native**
-- 📫 How to reach me: https://www.linkedin.com/in/bilalhalici/
+---
 
-### Connect with me:
+### 🚀 About Me
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bilalhalici/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bilalhalici/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/bllhlc#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/bllhlc#gh-dark-mode-only)
+- 💻 5+ years of experience building modern web applications  
+- ⚛️ Strong focus on **React, Next.js, and TypeScript**  
+- 🧩 Building scalable UI systems and data-driven dashboards  
+- 🌱 Currently improving my **fullstack (Node.js)** and system design skills  
+- 🌍 Open to **remote and hybrid opportunities**
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://avatars.githubusercontent.com/u/70142" />
+### 🛠️ Tech Stack
 
-<br />
-<br />
+**Frontend**
+- React.js / Next.js  
+- TypeScript / JavaScript  
+- HTML5 / CSS3 / Sass  
 
+**Backend (Basic / Growing)**
+- Node.js  
+- REST APIs  
+
+**Tools**
+- Git / GitHub  
+- VS Code  
+
+---
+
+### 📊 GitHub Stats
+
+<!-- ![Stats](https://github-readme-stats-fast.vercel.app/api?username=bilalhalici&show_icons=true&theme=radical) -->Ï
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bilalhalici&layout=compact)
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bilalhalici/  
+
+---
+
+### 🎯 Current Focus
+
+```text
+Improving fullstack skills (Node.js)
+Preparing for global opportunities
+Building production-ready applications
